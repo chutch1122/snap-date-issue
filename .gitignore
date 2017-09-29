@@ -1,0 +1,54 @@
+.gradle/
+.ftp/
+build/
+out/
+target/
+
+classes/
+*.class
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# Users Environment Variables
+.lock-wscript
+.tsdrc
+.typingsrc
+
+# IntelliJ configuration files
+# https://intellij-support.jetbrains.com/hc/en-us/articles/206544839-How-to-manage-projects-under-Version-Control-Systems
+# https://www.gitignore.io/api/intellij
+.idea/compiler.xml
+.idea/kotlinc.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/gradle.xml
+.idea/modules.xml
+.idea/libraries
+.idea/dataSources
+.idea/dataSources.xml
+.idea/vcs.xml
+*.iml
+.idea/*.local.*
+
+#IDE configuration files
+.vscode
+
+dist/
+
+.DS_Store
+
+logback*.xml
+
+components.dot*
+
+*.dump
+
+*.stackdump
