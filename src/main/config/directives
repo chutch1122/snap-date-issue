@@ -1,0 +1,4 @@
+NAME Snap Date Issue
+VERSION 1
+LANG java
+ASSET_DIR_PATH /example/shared
